@@ -1,0 +1,15 @@
+Column,Old Value,New Value
+branch,A,0
+branch,B,1
+branch,C,2
+city,Mandalay,0
+city,Naypyitaw,1
+city,Yangon,2
+gender,Female,0
+gender,Male,1
+product_line,Electronic accessories,0
+product_line,Fashion accessories,1
+product_line,Food and beverages,2
+product_line,Health and beauty,3
+product_line,Home and lifestyle,4
+product_line,Sports and travel,5
